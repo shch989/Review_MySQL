@@ -155,7 +155,7 @@ create table unique_cats2
 /* 생성되었는지 확인 */
 show tables;
 
-/* unique_cats 테이플 정보 확인 */
+/* unique_cats 테이블 정보 확인 */
 desc unique_cats2;
 
 /* key값을 제외한 name, age 입력 */
