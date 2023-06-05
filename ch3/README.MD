@@ -79,7 +79,7 @@ CREATE TABLE unique_cats (
 #### 두 번쨰 방법
 ```
 CREATE TABLE unique_cats2 (
-	cat_id INT NOT NULL,
+  cat_id INT NOT NULL,
   name VARCHAR(100) NOT NULL,
   age INT NOT NULL,
   PRIMARY KEY (cat_id)
