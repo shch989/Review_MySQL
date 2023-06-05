@@ -7,7 +7,7 @@
 ```
 create table cats
 	(
-		cat_id int not null auto_increment,
+    cat_id int not null auto_increment,
     name varchar(100),
     breed varchar(100),
     age int,
